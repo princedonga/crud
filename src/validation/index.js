@@ -1,0 +1,1 @@
+module.exports.admin_validation = require("./admin.validation")
